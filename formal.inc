@@ -18,7 +18,7 @@
          <li><a href="https://labyrinthmasquerade.com/">Labyrinth Masquerade</a> - Costume, rather than formal</li>
          <li><a href="https://www.sfopera.com/seasons/opera-ball/">SF Opera Ball</a></li>
          <li><a href="https://www.sfwaltzingsociety.org/">SF Waltzing Society</a></li>
-         <li><a href="https://www.facebook.com/vienneseball//">Stanford Viennese Ball</a></li>
+         <li><a href="https://www.facebook.com/vienneseball/">Stanford Viennese Ball</a></li>
          <li><a href="https://victoriandance.org/">Social Daunce Irregulars</a> November, in Pasadena CA</li>
       </ul>
    </div>
