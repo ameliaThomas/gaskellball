@@ -14,7 +14,7 @@
          <li><a href="https://www.fanime.com/events/#black-and-white-ball">Fanime Black and White Ball</a>, San Jose, CA</li>
          <li><a href="https://www.fantastiquecollection.com/fantastique-starfall-balltm-2025-ca">Fantastique Starfall Ball™ 2025</a>, San Francisco, CA</li>
          <li><a href="https://www.hssv.org/give/more-ways-to-give/the-fur-ball/">Fur Ball (Humane Society)</a>, San Jose, CA</li>
-         <li><a href="http://gaskellball.com">Gaskell Ball</a>, Oakland, CA</li>
+         <li><a href="http://gaskellball.com">Gaskell™ Ball</a>, Oakland, CA</li>
          <li><a href="https://allevents.in/mobile/amp-event.php?event_id=10000857575179447">Annual Grand Victorian Ball</a>Delaware</li>
          <li><a href="https://fairbanksballroom.dance/dances/formal-ball/">Hollywood Glamour Ball in Fairbanks, AK</a></li>
          <li><a href="https://labyrinthmasquerade.com/">Labyrinth Masquerade</a> - Costume, rather than formal, Southern CA</li>
