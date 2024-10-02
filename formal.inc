@@ -7,7 +7,7 @@
    </div>
    <div>
       <ol>
-         <li><a href="https://fourthwardschool.org/events/the-all-hallows-eve-victorian-ball/">The All Hallows Eve Victorian Ball, Virginia City, NV</a></li>
+         <li><a href="https://fourthwardschool.org/events/the-all-hallows-eve-victorian-ball/">The All Hallows Eve Victorian Ball (4th Annual), Virginia City, NV</a></li>
          <li><a href="https://www.artdecopreservationball.com/">Art Deco Preservation Ball, San Francisco, CA</a></li>
          <li><a href="https://artdecola.org/avalon-ball-faq">The Avalon Ball</a> May 17, 2025, Catalina Island, CA</li>
          <li><a href="https://catalinaconservancy.org/event/ball/">The Catalina Conservancy Ball</a> April, Catalina Island, CA</li>
