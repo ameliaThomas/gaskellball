@@ -6,7 +6,7 @@
       </div>
    </div>
    <div>
-      <ul>
+      <ol>
          <li><a href="https://fourthwardschool.org/events/the-all-hallows-eve-victorian-ball/">The All Hallows Eve Victorian Ball</a></li>
          <li><a href="https://www.artdecopreservationball.com/">Art Deco Preservation Ball</a></li>
          <li><a href="https://artdecola.org/avalon-ball-faq">The Avalon Ball</a> May 17, 2025, Catalina Island</li>
@@ -18,11 +18,13 @@
          <li><a href="https://allevents.in/mobile/amp-event.php?event_id=10000857575179447">Annual Grand Victorian Ball</a>Delaware</li>
          <li><a href="https://fairbanksballroom.dance/dances/formal-ball/">Hollywood Glamour Ball in Fairbanks, AK</a></li>
          <li><a href="https://labyrinthmasquerade.com/">Labyrinth Masquerade</a> - Costume, rather than formal</li>
+         <li><a href="https://www.priorattire.co.uk/events.html">Prior Attire Victorian Ball</a> in Bath, England.</li>
          <li><a href="https://www.sfopera.com/seasons/opera-ball/">SF Opera Ball</a></li>
          <li><a href="https://www.sfwaltzingsociety.org/">SF Waltzing Society</a></li>
+         <li><a href="https://victoriandance.org/">Social Daunce Irregulars</a> November, in Pasadena, CA</li>
          <li><a href="https://www.facebook.com/vienneseball/">Stanford Viennese Ball</a></li>
-         <li><a href="https://victoriandance.org/">Social Daunce Irregulars</a> November, in Pasadena CA</li>
-      </ul>
+         <li><a href="https://wemakehistory.com/victorian-christmas-ball">Victorian Christmas Ball</a> November, in Mesa, AZ</li>
+      </ol>
    </div>
 </div>
 <!-- /container -->
