@@ -7,6 +7,7 @@
    </div>
    <div>
       <ul>
+         <li><a href="https://fourthwardschool.org/events/the-all-hallows-eve-victorian-ball/">The All Hallows Eve Victorian Ball</a></li>
          <li><a href="https://www.artdecopreservationball.com/">Art Deco Preservation Ball</a></li>
          <li><a href="https://artdecola.org/avalon-ball-faq">The Avalon Ball</a> May 17, 2025, Catalina Island</li>
          <li><a href="https://catalinaconservancy.org/event/ball/">The Cataline Conservancy Ball</a> April, Catalina Island</li>
