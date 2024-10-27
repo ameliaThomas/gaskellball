@@ -3,7 +3,9 @@
       <div class="row">
         <div class="col-md-4">
           <h2>The Ball</h2>
-          <p>The next ball will be on December 28th, 2024. Watch this space, or follow us on <a href="facebook.com/gaskellball">Facebook</a> for more details.</p>
+          <p>The next ball will be on December 28th, 2024. </p>
+		<h3 style="color:red">Tickets</h3>
+			<p>Tickets available on <a href="https://thegaskellball.eventbrite.com">EventBrite</a></p>
           <p><a class="btn btn-default" href="upcomingevents.html" role="button">More Info &raquo;</a></p>
         </div>
         <div class="col-md-4">
