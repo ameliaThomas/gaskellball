@@ -6,9 +6,16 @@
 <h2>The Next Gaskell Ball: Dec 28th, 2024</h2>
 <!--a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1" class="btn btn-info" role="button">Buy Tickets Now & Save!</a-->
 <p/>
-<p>The Gaskell Ball is returning!</p>
+<H3 style="color:red">Tickets</H3>
+Tickets available on <a href="https://thegaskellball.eventbrite.com/">EventBrite</a><br>
+<div style="margin-left: 50px;">
+    $30 in advance<br>
+    $40 at the door (if available)<br><br>
+    $15 Afternoon dance class (pay at the door)<br/>
+</div>
+<br>
 <!-- <p>If you are interested in actually working to make this happen, reach out to us.</p> -->
-<p>More information about the ball will be coming soon! Watch this space or follow us on facebook.</p>
+<p>More photos and information on <a  href="http://facebook.com/gaskellball">Facebook</a>.</p>
 
 <!-- <p>Costumes can include historical costumes, modern formal wear, fictional characters, cosplay, steampunk and more. Be elegant Be dramatic. Be outrageous! Please check our <a href="costumes.html">What to Wear</a> page for more information</p> -->
 
@@ -20,7 +27,7 @@
 <a href="location.html" class="btn btn-info" role="button">Map</a>
 
 <h3>Schedule</h3>
-<p><em>Note that the ball is starting and ending one hour earlier. The ball will end at 11pm</em></p>
+<p><em>Note that the ball is starting and ending one hour earlier than previous balls. The ball will now end at 11pm</em></p>
 <p><em>This schedule may change. Please check again, closer to the date of the ball</em></p>
 <dl class="dl-horizontal">
         <dt>3:00pm</dt><dd><a href="classes.html">Afternoon Dance Class</a> (until 6:00pm)<dd>
@@ -31,8 +38,7 @@
     <dd> The ball ends<dd>
 </dl>
 
-<h3>Admission</h3>
-Ticket prices for 2024 TBD
+
 <!--
 <p><a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1">$20 in advance.</a></p>
 <p>$25 at the door.</p>
