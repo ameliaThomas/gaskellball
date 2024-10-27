@@ -3,9 +3,11 @@
       <div class="row">
         <div class="col-md-12 indented-text">
             <h1>Learning the Dances</h1>
-                <p>On the day of the ball, we teach a longer afternoon class, and also a 30 minute class right before the ball. You can also practice before the ball at the locations listed below.</p>
+                <p>On the day of the ball, we teach a longer afternoon class. The price for this class is separate from the ball admission, and is $15, payable at the class.</p>
+                <p>This is also a shorter, 30 minute class right before the ball. This class is included in ball admission.</p>
+		<p> You can also practice before the ball at the locations listed below.</p>
           <h2>Afternoon Dance Class - 3:00PM</h2>
-          <p>On the afternoon of the ball, in the same location, there is a 2½ hour dance class taught by Tom Hill, Amelia Thomas and Hilary Powers.</p>
+          <p>On the afternoon of the ball, in the same location, there is a 2½ hour dance class taught by Tom Hill, Amelia Thomas and Hilary Powers. $15</p>
             <h3>The Dances</h3>
                 <p>We'll be teaching the Waltz, Polka, Schottisch, Mazurka, Galop and the <a href="congress.html">Congress of Vienna Waltz</a></p>
                 <p>Note that, as this is a Victorian Ball, we teach the Victorian form of the Waltz. Anyone who is familiar with other versions of the Waltz should have no difficulty learning the Victorian style in an afternoon.</P>
@@ -18,6 +20,7 @@
            Give us the opportunity to change it <p>The cost of the afternoon class is $10.</p> -->
 
           <h2 id="evening">Evening Dance Class - 6:45</h2>
+	  <p>This class is included with admission to the ball</p>
           <p>This is a half-hour introduction to basic Waltz, Polka and Schottische.</p>
           <p>If you are new to dancing, we recommend the afternoon class, half an hour is a very short time in which to learn to dance.</p>
           <h1>Other Learning Options</h1>
