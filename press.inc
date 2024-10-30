@@ -18,8 +18,8 @@
          <h2>Press Information</h2>
          <p>The Gaskell Ball originated in Oakland, at Mills College, in 1979. It continued until 2015, and then took a hiatus.</p>
          <p>After nine years, the next ball will be on December 28th,2024 at the lovely <a href="https://oaklandscottishrite.com/">Oakland Scottish Rite</a>, on Lakeside Drive, next to Lake Merritt.</p>
-         <p>Contact: Tom Hill (650) 248-2876‬, or gaskellball@worldware.com</p>
-   </div>
+         <p>Contact: Tom Hill (650) 248-2876, or gaskellball@worldware.com</p>
+</div>
 
     <div class="social-icons">
 <a title="Gaskell Ball Faceboook" href="https://www.facebook.com/gaskellball"><img width="512" alt="2023 Facebook icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/512px-2023_Facebook_icon.svg.png?20231011122028"></a>
