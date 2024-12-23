@@ -6,6 +6,7 @@
           <p>The next ball will be on December 28th, 2024. </p>
 		<h3 style="color:red">Tickets</h3>
 			<p>Tickets available on <a href="https://thegaskellball.eventbrite.com">EventBrite</a></p>
+<p>Update: No tickets will be sold at the door.</p>
           <p><a class="btn btn-default" href="upcomingevents.html" role="button">More Info &raquo;</a></p>
         </div>
         <div class="col-md-4">
