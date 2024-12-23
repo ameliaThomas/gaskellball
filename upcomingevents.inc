@@ -10,7 +10,7 @@
 Tickets available on <a href="https://thegaskellball.eventbrite.com/">EventBrite</a><br>
 <div style="margin-left: 50px;">
     $30 in advance<br>
-    $40 at the door (if available)<br><br>
+    <s>$40 at the door (if available)</a> Tickets will not be available at the door.<br><br>
     $15 Afternoon dance class (pay at the door)<br/>
 </div>
 <br>
