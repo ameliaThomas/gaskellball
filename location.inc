@@ -16,6 +16,12 @@
 <h3>Parking</h3>
 <p>This is some parking in the lot behind the hall, on Madison St., additional parking is available on the street.</p>
 <p>There are a number of paid lots avaiable in the area, as well.</p>
+
+<p>It appears that the large garages in Oakland all close at around 7pm, or are closed weekends.</p> 
+<p>If you find one that is open, PLEASE let us know.</p>
+<p>There are some garages in Alameda that are open 24 hours, 
+like the one near Peers. You could park there, and Uber in to the ball.</p>
+<p>By the reviews, don't use the garage in Jack London Square.</p>
         
           
         </div>
