@@ -29,7 +29,7 @@
 <p><em>Note that the ball is starting and ending one hour earlier than previous balls. The ball will now end at 11pm</em></p>
 <p><em>This schedule may change. Please check again, closer to the date of the ball</em></p>
 <dl class="dl-horizontal">
-        <dt>3:00pm</dt><dd><a href="classes.html">Afternoon Dance Class</a> (until 6:00pm)<dd>
+        <dt>3:00pm</dt><dd><a href="classes.html">Afternoon Dance Class</a> (until 5:30pm)<dd>
         <dt>6:30pm</dt><dd> Doors open for the ball<dd>
         <dt>6:45pm</dt><dd><a href="classes.html#evening">Brief dance class/review</a><dd>
         <dt>7:30pm</dt><dd> Dancing begins<dd>
