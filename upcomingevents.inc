@@ -6,8 +6,7 @@
 <h2>The Next Gaskell Ball: Dec 28th, 2024</h2>
 <!--a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1" class="btn btn-info" role="button">Buy Tickets Now & Save!</a-->
 <p/>
-<H3>Tickets</H3>
-Tickets available on <a href="https://thegaskellball.eventbrite.com/">EventBrite</a><br>
+
 <div style="margin-left: 50px;">
 <h3 style="color:red">The 2024 Gaskell Ball is Sold Out</h3>
 <p>Tickets will not be available at the door.<br><br>
