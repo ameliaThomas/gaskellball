@@ -3,14 +3,13 @@
       <div class="row">
         <div class="col-md-12 indented-text">
 
-<h2>The Next Gaskell Ball: Dec 28th, 2024</h2>
+<h2>The Next Gaskell Ball: Tentative! Dec 27th, 2025</h2>
 <!--a href="https://squareup.com/market/ye-gaskell-occasional-dance-society/admission-to-the-october-th-gaskell-ball-1" class="btn btn-info" role="button">Buy Tickets Now & Save!</a-->
 <p/>
 
 <div style="margin-left: 50px;">
-<h3 style="color:red">The 2024 Gaskell Ball is Sold Out</h3>
-<p>Tickets will not be available at the door.<br><br>
-   If you have your tickets to the ball, there is plenty of space in the afternoon class: $15 Afternoon dance class (pay at the door)<br/>
+<h3 style="color:red">The 2025 Gaskell Ball is still in the planning stages</h3>
+<p>We are looking at another December ball</p>
 </div>
 <br>
 <!-- <p>If you are interested in actually working to make this happen, reach out to us.</p> -->
