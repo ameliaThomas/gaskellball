@@ -3,10 +3,9 @@
       <div class="row">
         <div class="col-md-4">
           <h2>The Ball</h2>
-          <p>The next ball will be on December 28th, 2024. </p>
-		<h3>Tickets</h3>
-			<p style="color:red">The 2024 Gaskell Ball was a wild success, completely sold out, with over 600 people</p>
-			<p>We are hoping to have a 2025 ball in December.</p>
+		<p style="color:red">The 2024 Gaskell Ball was a wild success, completely sold out, with over 600 people.</p>
+		<p>We are hoping to have a 2025 ball in December.</p>
+
           <p><a class="btn btn-default" href="upcomingevents.html" role="button">More Info &raquo;</a></p>
         </div>
         <div class="col-md-4">
